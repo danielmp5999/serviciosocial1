@@ -26,8 +26,8 @@ class Resume extends Component {
       <section id="resume">
 
       <div className="row education">
-         <div className="three columns header-col">
-            <h1><span>Education</span></h1>
+         <div className="three columns header-col"> 
+            <h1><span>Compromiso social</span></h1>
          </div>
 
          <div className="nine columns main-col">

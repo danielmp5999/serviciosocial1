@@ -1,10 +1,11 @@
 {
   "main": {
-    "name": "Tim Baker",
+    "name": "Aunque por procesos naturales que existen en el planeta. La quema de combustibles fósiles y otros procesos industriales han hecho que se incremente la conservación de calor en el planeta, generando al menos el 78% de los GEI globales. Bajo este panorama, México actualmente ocupa el 16 lugar como emisor de GEI a nivel mundial con 357mil toneladas de CO2 (Global Carbon Atlas en 2020).",
     "occupation": "El deterioro de nuestro planeta ha llevado a unir varios especialistas de diversas áreas con el fin de combatir el cambio climático, hablamos de biólogos, químicos, físicos, médicos, matemáticos, informáticos y un sinfín de personas interesados por contribuir a la mejora continua de hábitos, desde un individuo hasta grandes organizaciones.",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "image2": "sostenibilidad.jpg",
+    "bio": "La sostenibilidad se rige bajo el principio de asegurar las necesidades del presente sin comprometer las necesidades de las generaciones futuras, siempre sin renunciar a la protección del medioambiente, el crecimiento económico y el desarrollo social. La emergencia climática nos obliga como consumidores a replantear los hábitos de vida y urge a empresas e instituciones a cambiar su propósito hacía una economía no lineal e inclusiva que tenga en cuenta lo social y lo ambiental.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -38,8 +39,8 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
+        "school": "Emisiones de CO2 en México",
+        "degree": "Masters in Beer tastinggg",
         "graduated": "April 2007",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
