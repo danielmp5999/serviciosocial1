@@ -37,7 +37,12 @@
     ]
   },
   "resume": {
+<<<<<<< refs/remotes/origin/Resume
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+=======
+    "skillmessage": "Se ah listado una serie de actividades usuales dentro de la universidad, las cuales tienen impacto directo sobre estas emisiones, es necesario saber cuanto representa la contaminación en cada actividad cabe decir que los datos que a continuación son exhibidos es producto de infromación recabada:",
+    "description32image1": "metodologia.jpg",
+>>>>>>> local
     "education": [
       {
         "school": "Emisiones de CO2 en México",
@@ -68,32 +73,32 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
+        "name": "Movilidad de todo personal universitario",
         "level": "50%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Consumo de electricidad",
+        "level": "20%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "Consumo de gas natural",
+        "level": "10%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Consumo de agua",
+        "level": "10%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Emisión por aire acondicionado",
+        "level": "5%"
+      },
+      {
+        "name": "Consumo de papel",
+        "level": "2.5%"
+      },
+      {
+        "name": "Generación de residuos peligrosos",
+        "level": "2.5%"
       }
     ]
   },
