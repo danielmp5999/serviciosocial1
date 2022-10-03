@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "react-deploy-d5b35"
-  }
+    "default": "react-deploy-d5b35",
+    "servicio": "servicio-deploy",
+    "servicio-deploy": "react-deploy-d5b35"
+  },
+  "targets": {},
+  "etags": {}
 }
