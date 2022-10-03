@@ -37,12 +37,8 @@
     ]
   },
   "resume": {
-<<<<<<< refs/remotes/origin/Resume
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-=======
     "skillmessage": "Se ah listado una serie de actividades usuales dentro de la universidad, las cuales tienen impacto directo sobre estas emisiones, es necesario saber cuanto representa la contaminación en cada actividad cabe decir que los datos que a continuación son exhibidos es producto de infromación recabada:",
     "description32image1": "metodologia.jpg",
->>>>>>> local
     "education": [
       {
         "school": "Emisiones de CO2 en México",
