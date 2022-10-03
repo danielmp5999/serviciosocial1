@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "Aunque por procesos naturales que existen en el planeta. La quema de combustibles fósiles y otros procesos industriales han hecho que se incremente la conservación de calor en el planeta, generando al menos el 78% de los GEI globales. Bajo este panorama, México actualmente ocupa el 16 lugar como emisor de GEI a nivel mundial con 357mil toneladas de CO2 (Global Carbon Atlas en 2020).",
+    "importancia1": "Medir y estudiar estos gases para examinar la posibilidad de reducirlos.",
+    "importancia2": "Detectar el principal responsable que genera emisiones altas.",
+    "importancia3": "Es necesario contar con su equivalencia de CO2: \n CH4 =  21 CO2, N2O = 310 CO2, (HFC, PFC y SF6) tienen un elevado potencial de calentamiento térmico, pero se emiten muy pequeñas cantidades de cada uno de ellos.",
+    "occupation": "El deterioro de nuestro planeta ha llevado a unir varios especialistas de diversas áreas con el fin de combatir el cambio climático, hablamos de biólogos, químicos, físicos, médicos, matemáticos, informáticos y un sinfín de personas interesados por contribuir a la mejora continua de hábitos, desde un individuo hasta grandes organizaciones.",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.jpg",
+    "image2": "sostenibilidad.jpg",
+    "image3": "mapa.jpg",
+    "image4": "gases.jpg",
+    "bio": "La sostenibilidad se rige bajo el principio de asegurar las necesidades del presente sin comprometer las necesidades de las generaciones futuras, siempre sin renunciar a la protección del medioambiente, el crecimiento económico y el desarrollo social. La emergencia climática nos obliga como consumidores a replantear los hábitos de vida y urge a empresas e instituciones a cambiar su propósito hacía una economía no lineal e inclusiva que tenga en cuenta lo social y lo ambiental.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.website.com",
+    "resumedownload": "http://website.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com//BUAPoficial/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/BUAPoficial",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/buapoficial",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "description32image1": "metodologia.jpg",
+    "education": [
+      {
+        "school": "Crear valor, progreso y binestar.",
+        "degree": "",
+        "graduated": "",
+        "description": "A través de la Cordinación de Gestión Ambiental de la Benemérita Universidad Autónoma de Puebla, se refrenda el compromiso de compensar el impacto ambiental de diversas actividades generadas, pues bien, el uso de bicicletas compartidas y autobuses monitoreados en la emisión de gases, hacen que la huella de carbono se mantenga en niveles bajos. Más sin embargo vale la pena tener una cuantificación de este indicador para determinar acciones oportunas."
+      },
+      {
+        "school": "¿Qué es la huella de carbono?",
+        "degree": "",
+        "graduated": "",
+        "description": "Es el indicador que aborda la medición de sostenibilidad desde el punto de vista del consumo de recursos naturales respecto del potencial productivo del planeta. Existe una explotación desordenada de recursos lo que produce la liberación de importantes cantidades de CO2,  que para nuestro planeta resulta insuficiente poder asimilarlas lo que causa un desequilibrio del ciclo de carbono, lo que incentiva el calentamiento global. "
+      }
+    ],
+    "work": [
+      {
+        "company": "El camino hacia una cuantificación exitosa",
+        "title": "",
+        "years": "",
+        "description": "Existen diversas metodologías, las cuales tienen diversos enfoques, tales como la cuantificación de la huella de carbono dirigida a los alimentos, dirigido a las personas, al hogar o grandes organizaciones. Vale la pena mencionar algunas metodologías de las cuales retomamos las mejores practicas: ",
+        "titledescription2": "GHG Protocol",
+        "description2": "El GHG Protocol (GreenHouse Gas Protocol) fue implementado en 2001 mediante la publicación del “Corporate Estándar”. Es una initiativa del World Bussiness Council for Sustainable Development (WBSCD) y del World Resources Institutes (WRI). Se plantea como una colaboración multilateral entre empresas, ONGs y gobiernos que tiene como meta el establecimiento de bases para la contabilización de emisiones de GEI. (WBCSD, 2001) El GHG Protocol es un marco metodológico general que da pautas de trabajo para la determinación de herramientas de calculo de emisiones de GEI en particular los métodos Bilan Carbone y PAS 2060 ",
+        "titledescription3": "ISO 14064",
+        "description3": "Del lado de las normas ISO, están relacionadas con la calidad y se clasifican en familias de normas, de acuerdo con el numero abarcan distintos aspectos relacionados con la calidad:",
+        "description3lista1": "ISO 9000: Sistemas de Gestión de calidad",
+        "description3lista2": "ISO 10000: Guías para implementar sistemas de gestión de calidad",
+        "description3lista3": "ISO 14000: Sistemas de Gestión Ambiental de las Organizaciones",
+        "description3lista4": "ISO 19011: Directrices para la auditoria de los SGC y/o Ambiental",
+        "description31": "Para efectos del tema de estudio, estamos enfocados en el ISO 14064, sin embargo, esta norma se apoya de algunas otras por lo que se puede determinar que el conjunto de las Normas ISO 14060 son una familia. La familia de la Norma ISO 14060 proporciona una guía para que la cuantificación de las emisiones sea coherente y se pueda dar un seguimiento de estas emisiones, esto con el objetivo de apoyar el desarrollo sostenible. El uso de la familia de la Norma ISO 14060 involucra:",
+        "description31lista1": "Mejora la integridad ambiental de la cuantificación de GEI",
+        "description31lista2": "Mejora la credibilidad de la cuantificación",
+        "description31lista3": "Facilita el desarrollo e implementación de estrategias de gestión de GEI",
+        "description31lista4": "Facilita la capacidad de trazar el desempeño en la reducción de GEI",
+        "description32": "A continuacion se muestra una serie de pasos para su cuantificación",
+        "description32image1": "metodologia.jpg"
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

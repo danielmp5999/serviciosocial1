@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/serviciosocial1/static/css/main.31d6cfe0.css",
+    "main.js": "/serviciosocial1/static/js/main.e68d1f00.js",
+    "index.html": "/serviciosocial1/index.html",
+    "main.e68d1f00.js.map": "/serviciosocial1/static/js/main.e68d1f00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e68d1f00.js"
+  ]
+}
