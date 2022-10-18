@@ -1,24 +1,25 @@
 {
   "main": {
-    "name": "Aunque por procesos naturales que existen en el planeta. La quema de combustibles fósiles y otros procesos industriales han hecho que se incremente la conservación de calor en el planeta, generando al menos el 78% de los GEI globales. Bajo este panorama, México actualmente ocupa el 16 lugar como emisor de GEI a nivel mundial con 357mil toneladas de CO2 (Global Carbon Atlas en 2020).",
+    "bio": "La sostenibilidad se rige bajo el principio de asegurar las necesidades del presente sin comprometer las necesidades de las generaciones futuras, siempre sin renunciar a la protección del medioambiente, el crecimiento económico y el desarrollo social. La emergencia climática nos obliga como consumidores a replantear los hábitos de vida y urge a empresas e instituciones a cambiar su propósito hacía una economía no lineal e inclusiva que tenga en cuenta lo social y lo ambiental.",
+    "emision": "Aunque por procesos naturales que existen en el planeta. La quema de combustibles fósiles y otros procesos industriales han hecho que se incremente la conservación de calor en el planeta, generando al menos el 78% de los GEI globales. Bajo este panorama, México actualmente ocupa el 16 lugar como emisor de GEI a nivel mundial con 357mil toneladas de CO2 (Global Carbon Atlas en 2020).",
+    "image2": "sostenibilidad.jpg",
+    "image3": "mapa.jpg",
     "importancia1": "Medir y estudiar estos gases para examinar la posibilidad de reducirlos.",
     "importancia2": "Detectar el principal responsable que genera emisiones altas.",
     "importancia3": "Es necesario contar con su equivalencia de CO2: \n CH4 =  21 CO2, N2O = 310 CO2, (HFC, PFC y SF6) tienen un elevado potencial de calentamiento térmico, pero se emiten muy pequeñas cantidades de cada uno de ellos.",
     "occupation": "El deterioro de nuestro planeta ha llevado a unir varios especialistas de diversas áreas con el fin de combatir el cambio climático, hablamos de biólogos, químicos, físicos, médicos, matemáticos, informáticos y un sinfín de personas interesados por contribuir a la mejora continua de hábitos, desde un individuo hasta grandes organizaciones.",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
-    "image2": "sostenibilidad.jpg",
-    "image3": "mapa.jpg",
     "image4": "gases.jpg",
-    "bio": "La sostenibilidad se rige bajo el principio de asegurar las necesidades del presente sin comprometer las necesidades de las generaciones futuras, siempre sin renunciar a la protección del medioambiente, el crecimiento económico y el desarrollo social. La emergencia climática nos obliga como consumidores a replantear los hábitos de vida y urge a empresas e instituciones a cambiar su propósito hacía una economía no lineal e inclusiva que tenga en cuenta lo social y lo ambiental.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Facultad de Ciencias de la Computación - BUAP",
+    "contactmessage": "¿Existen algunas dudas y/o comentarios? Contáctanos:",
     "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "222 229 5500 ext. 7204",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Avenida San Claudio, Blvrd 14 Sur",
+      "city": "Puebla",
+      "state": "Puebla",
+      "zip": "72592"
     },
     "website": "http://www.website.com",
     "resumedownload": "http://website.com",
@@ -41,25 +42,25 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Se ah listado una serie de actividades usuales dentro de la universidad, las cuales tienen impacto directo sobre estas emisiones, es necesario saber cuanto representa la contaminación en cada actividad cabe decir que los datos que a continuación son exhibidos es producto de infromación recabada:",
     "description32image1": "metodologia.jpg",
-    "education": [
+    "compromiso": [
       {
-        "school": "Crear valor, progreso y binestar.",
+        "title": "Crear valor, progreso y binestar.",
         "degree": "",
         "graduated": "",
         "description": "A través de la Cordinación de Gestión Ambiental de la Benemérita Universidad Autónoma de Puebla, se refrenda el compromiso de compensar el impacto ambiental de diversas actividades generadas, pues bien, el uso de bicicletas compartidas y autobuses monitoreados en la emisión de gases, hacen que la huella de carbono se mantenga en niveles bajos. Más sin embargo vale la pena tener una cuantificación de este indicador para determinar acciones oportunas."
       },
       {
-        "school": "¿Qué es la huella de carbono?",
+        "title": "¿Qué es la huella de carbono?",
         "degree": "",
         "graduated": "",
         "description": "Es el indicador que aborda la medición de sostenibilidad desde el punto de vista del consumo de recursos naturales respecto del potencial productivo del planeta. Existe una explotación desordenada de recursos lo que produce la liberación de importantes cantidades de CO2,  que para nuestro planeta resulta insuficiente poder asimilarlas lo que causa un desequilibrio del ciclo de carbono, lo que incentiva el calentamiento global. "
       }
     ],
-    "work": [
+    "metodologia": [
       {
-        "company": "El camino hacia una cuantificación exitosa",
+        "title1": "El camino hacia una cuantificación exitosa",
         "title": "",
         "years": "",
         "description": "Existen diversas metodologías, las cuales tienen diversos enfoques, tales como la cuantificación de la huella de carbono dirigida a los alimentos, dirigido a las personas, al hogar o grandes organizaciones. Vale la pena mencionar algunas metodologías de las cuales retomamos las mejores practicas: ",
@@ -80,38 +81,110 @@
         "description32image1": "metodologia.jpg"
       }
     ],
-    "skills": [
+    "actividades": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
+        "name": "Movilidad de todo personal universitario",
         "level": "50%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Consumo de electricidad",
+        "level": "20%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "Consumo de gas natural",
+        "level": "10%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Consumo de agua",
+        "level": "10%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Emisión por aire acondicionado",
+        "level": "5%"
+      },
+      {
+        "name": "Consumo de papel",
+        "level": "2.5%"
+      },
+      {
+        "name": "Generación de residuos peligrosos",
+        "level": "2.5%"
       }
     ]
   },
   "portfolio": {
+    "skillmessage": "Se ah listado una serie de actividades usuales dentro de la universidad, las cuales tienen impacto directo sobre estas emisiones, es necesario saber cuanto representa la contaminación en cada actividad cabe decir que los datos que a continuación son exhibidos es producto de infromación recabada:",
+    "description32image1": "metodologia.jpg",
+    "compromiso": [
+      {
+        "title": "Crear valor, progreso y binestar.",
+        "degree": "",
+        "graduated": "",
+        "description": "A través de la Cordinación de Gestión Ambiental de la Benemérita Universidad Autónoma de Puebla, se refrenda el compromiso de compensar el impacto ambiental de diversas actividades generadas, pues bien, el uso de bicicletas compartidas y autobuses monitoreados en la emisión de gases, hacen que la huella de carbono se mantenga en niveles bajos. Más sin embargo vale la pena tener una cuantificación de este indicador para determinar acciones oportunas."
+      },
+      {
+        "title": "¿Qué es la huella de carbono?",
+        "degree": "",
+        "graduated": "",
+        "description": "Es el indicador que aborda la medición de sostenibilidad desde el punto de vista del consumo de recursos naturales respecto del potencial productivo del planeta. Existe una explotación desordenada de recursos lo que produce la liberación de importantes cantidades de CO2,  que para nuestro planeta resulta insuficiente poder asimilarlas lo que causa un desequilibrio del ciclo de carbono, lo que incentiva el calentamiento global. "
+      }
+    ],
+    "metodologia": [
+      {
+        "title1": "El camino hacia una cuantificación exitosa",
+        "title": "",
+        "years": "",
+        "description": "Existen diversas metodologías, las cuales tienen diversos enfoques, tales como la cuantificación de la huella de carbono dirigida a los alimentos, dirigido a las personas, al hogar o grandes organizaciones. Vale la pena mencionar algunas metodologías de las cuales retomamos las mejores practicas: ",
+        "titledescription2": "GHG Protocol",
+        "description2": "El GHG Protocol (GreenHouse Gas Protocol) fue implementado en 2001 mediante la publicación del “Corporate Estándar”. Es una initiativa del World Bussiness Council for Sustainable Development (WBSCD) y del World Resources Institutes (WRI). Se plantea como una colaboración multilateral entre empresas, ONGs y gobiernos que tiene como meta el establecimiento de bases para la contabilización de emisiones de GEI. (WBCSD, 2001) El GHG Protocol es un marco metodológico general que da pautas de trabajo para la determinación de herramientas de calculo de emisiones de GEI en particular los métodos Bilan Carbone y PAS 2060 ",
+        "titledescription3": "ISO 14064",
+        "description3": "Del lado de las normas ISO, están relacionadas con la calidad y se clasifican en familias de normas, de acuerdo con el numero abarcan distintos aspectos relacionados con la calidad:",
+        "description3lista1": "ISO 9000: Sistemas de Gestión de calidad",
+        "description3lista2": "ISO 10000: Guías para implementar sistemas de gestión de calidad",
+        "description3lista3": "ISO 14000: Sistemas de Gestión Ambiental de las Organizaciones",
+        "description3lista4": "ISO 19011: Directrices para la auditoria de los SGC y/o Ambiental",
+        "description31": "Para efectos del tema de estudio, estamos enfocados en el ISO 14064, sin embargo, esta norma se apoya de algunas otras por lo que se puede determinar que el conjunto de las Normas ISO 14060 son una familia. La familia de la Norma ISO 14060 proporciona una guía para que la cuantificación de las emisiones sea coherente y se pueda dar un seguimiento de estas emisiones, esto con el objetivo de apoyar el desarrollo sostenible. El uso de la familia de la Norma ISO 14060 involucra:",
+        "description31lista1": "Mejora la integridad ambiental de la cuantificación de GEI",
+        "description31lista2": "Mejora la credibilidad de la cuantificación",
+        "description31lista3": "Facilita el desarrollo e implementación de estrategias de gestión de GEI",
+        "description31lista4": "Facilita la capacidad de trazar el desempeño en la reducción de GEI",
+        "description32": "A continuacion se muestra una serie de pasos para su cuantificación",
+        "description32image1": "metodologia.jpg"
+      }
+    ],
+    "actividades": [
+      {
+        "name": "Movilidad de todo personal universitario",
+        "level": "50%"
+      },
+      {
+        "name": "Consumo de electricidad",
+        "level": "20%"
+      },
+      {
+        "name": "Consumo de gas natural",
+        "level": "10%"
+      },
+      {
+        "name": "Consumo de agua",
+        "level": "10%"
+      },
+      {
+        "name": "Emisión por aire acondicionado",
+        "level": "5%"
+      },
+      {
+        "name": "Consumo de papel",
+        "level": "2.5%"
+      },
+      {
+        "name": "Generación de residuos peligrosos",
+        "level": "2.5%"
+      }
+    ],
+
+
+
     "projects": [
       {
         "title": "Canadian Wanderlust",
@@ -143,7 +216,33 @@
         "image": "smirkspace.jpg",
         "url": "http://www.smirkspace.com"
       }
+    ],
+
+    "inovacion":[
+      {
+        "titleDescription": "Implementación de una aplicación móvil con Inteligencia Artificial",
+        "description": "A raíz del problema, surge la necesidad de apoyarnos en tecnologías para lograr una cuantificación más certera y no solo fiarse de datos prellenados o establecidos 'manualmente'. Por lo que se pretende la elaboración de una metodología cuyo producto es una aplicación móvil que calcule la Huella de Carbono de la BUAP, mediante datos que estén en constante actualización. La generación de estos se da por los universitarios, actores o usuarios: estudiantes, docentes y personal administrativo.",
+        "description2": "La aplicación movil envía datos contantemente, los cuales son generados por el mismo dispositivo, es necesario obtener un registro de personas que utilizan la aplicación, y mediante el empleo de Inteligencia Artifical, la aplicación es capaz de reconocer patrones de movimiento, de tal forma que podemos determinar cuando el universitario se encuentre caminando, o se encuentra utilizando algún medio de transporte ya sea su automóvil privado o simplemente utiliza el transporte público. Estos datos son enviados a la base de datos de tal forma que podemos obtener el impacto ambiental sobre la movilidad del usuario dentro de la Universidad",
+        "imagen1": "arquitectura1.jpg",
+        "description3list1": "Permitir al usuario una autentificación para recordar sus datos y le permita un fácil y amigable acceso",
+        "description3list2": "Cuenta con un formulario inicial, el cual le permite registrar información útil al momento de analizar la información",
+        "description3list3": "La app tiene acceso a su Sistema de Posicionamiento Global (GPS)",
+        "description3list4": "La app es capaz de detectar la velocidad en la que se desplaza el universitario y con el reconocimiento de patrones se puede determinar si el universitario va caminando o en algún tipo de transporte.",
+        "description3list5": "Por medio de los sensores del dispositivo móvil, la app es capaz de detectar la temperatura ambiental, con la finalidad de obtener datos y ver el comportamiento de las variaciones a través del tiempo."
+      }
+    ],
+    "consideracion":[
+      {
+        "title": "Limitaciones",
+        "consideration1": "Permisos del usurio: Es necesario contar con permisos especiales, el cual es el acceso a algunos sensores como lo son, acelerómetro, barómetro, giroscopio, GPS, huella digital (para la autentificación) y podómetro (en caso de tener). ",
+        "consideration2": "Limitación geográfica: La aplicación entrará en función unicamente dentro de la zona de Ciudad Universitaria que contempla los siguientes parametros",
+        "imagen1": "geografia.jpg",
+        "consideration3": "Compatibilidad entre dispositivos: Existen algunas funciones que no en todos los dispositivos pueden funcionar, esto debido a la compatibilidad o que no cuente con algún sensor",
+        "consideration4": "Conexión constante a internet: Como los datos son en tiempo real, la aplicación móvil necesita de una conexón constante a internet."
+
+      }
     ]
+
   },
   "testimonials": {
     "testimonials": [
@@ -156,5 +255,7 @@
         "user": "Steve Wozniak... impersonator"
       }
     ]
+
+
   }
 }

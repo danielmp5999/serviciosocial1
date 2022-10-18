@@ -6,40 +6,40 @@ class Resume extends Component {
     if(this.props.data){
       var skillmessage = this.props.data.skillmessage;
       var metodo= "images/"+this.props.data.description32image1;
-      var education = this.props.data.education.map(function(education){
-        return <div key={education.school}><h3>{education.school}</h3>
-        <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-        <p>{education.description}</p></div>
+      var compromiso = this.props.data.compromiso.map(function(compromiso){
+        return <div key={compromiso.title}><h3>{compromiso.title}</h3>
+        <p className="info">{compromiso.degree} <span>&bull;</span><em className="date">{compromiso.graduated}</em></p>
+        <p>{compromiso.description}</p></div>
       })
-      var work = this.props.data.work.map(function(work){
-        return <div key={work.company}><h3>{work.company}</h3>
-            <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-            <p>{work.description}</p>
-            <h1>{work.titledescription2}</h1>
-            <p>{work.description2}</p>
-            <h1>{work.titledescription3}</h1>
-            <p>{work.description3}</p>
+      var metodologia = this.props.data.metodologia.map(function(metodologia){
+        return <div key={metodologia.title1}><h3>{metodologia.title1}</h3>
+            <p className="info">{metodologia.title}<span>&bull;</span> <em className="date">{metodologia.years}</em></p>
+            <p>{metodologia.description}</p>
+            <h1>{metodologia.titledescription2}</h1>
+            <p>{metodologia.description2}</p>
+            <h1>{metodologia.titledescription3}</h1>
+            <p>{metodologia.description3}</p>
             <ul>
-              <li type="circle"><span>{work.description3lista1}</span></li>
-              <li type="circle"><span>{work.description3lista2}</span></li>
-              <li type="circle"><span>{work.description3lista3}</span></li>
-              <li type="circle"><span>{work.description3lista4}</span></li>
+              <li type="circle"><span>{metodologia.description3lista1}</span></li>
+              <li type="circle"><span>{metodologia.description3lista2}</span></li>
+              <li type="circle"><span>{metodologia.description3lista3}</span></li>
+              <li type="circle"><span>{metodologia.description3lista4}</span></li>
             </ul>
-            <p>{work.description31}</p>
+            <p>{metodologia.description31}</p>
             <ul>
-              <li type="square"><span>{work.description31lista1}</span></li>
-              <li type="square"><span>{work.description31lista2}</span></li>
-              <li type="square"><span>{work.description31lista3}</span></li>
-              <li type="square"><span>{work.description31lista4}</span></li>
+              <li type="square"><span>{metodologia.description31lista1}</span></li>
+              <li type="square"><span>{metodologia.description31lista2}</span></li>
+              <li type="square"><span>{metodologia.description31lista3}</span></li>
+              <li type="square"><span>{metodologia.description31lista4}</span></li>
             </ul>
-            <p>{work.description32}</p>
+            <p>{metodologia.description32}</p>
             <p><img className="item-wrap"  src={metodo} alt="Metodologia a seguir" /></p>
 
         </div>
       })
-      var skills = this.props.data.skills.map(function(skills){
-        var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+      var actividades = this.props.data.actividades.map(function(actividades){
+        var className = 'bar-expand '+actividades.name.toLowerCase();
+        return <li key={actividades.name}><span style={{width:actividades.level}}className={className}></span><em>{actividades.name}</em></li>
       })
     }
 
@@ -54,7 +54,7 @@ class Resume extends Component {
          <div className="nine columns main-col">
             <div className="row item">
                <div className="twelve columns">
-                 {education}
+                 {compromiso}
                </div>
             </div>
          </div>
@@ -68,7 +68,7 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
-          {work}
+          {metodologia}
         </div>
     </div>
 
@@ -77,7 +77,7 @@ class Resume extends Component {
       <div className="row skill">
 
          <div className="three columns header-col">
-            <h1><span>Skills</span></h1>
+            <h1><span>Actividades</span></h1>
          </div>
 
          <div className="nine columns main-col">
@@ -86,8 +86,8 @@ class Resume extends Component {
             </p>
 
 				<div className="bars">
-				   <ul className="skills">
-					  {skills}
+				   <ul className="actividades">
+					  {actividades}
 					</ul>
 				</div>
 			</div>
